@@ -1,0 +1,29 @@
+{
+  "name": "cartesian-mutable",
+  "version": "0.0.1",
+  "description": "Cartesian product with a twist: each set can mutate depending on the values picked from the previous sets",
+  "main": "cartesian-mutable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shkuznetsov/cartesian-mutable.git"
+  },
+  "keywords": [
+    "cartesian",
+    "combination",
+    "permutation"
+  ],
+  "author": {
+    "name": "Alexander Kuznetsov",
+    "email": "alexander@kuznetsov.by",
+    "url": "http://kuznetsov.by/"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/shkuznetsov/cartesian-mutable/issues"
+  },
+  "homepage": "https://github.com/shkuznetsov/cartesian-mutable#readme"
+}
