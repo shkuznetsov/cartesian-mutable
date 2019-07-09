@@ -1,4 +1,4 @@
-# cartesian-mutable
+# cartesian-mutable [![NPM version](https://badge.fury.io/js/cartesian-mutable.svg)](http://badge.fury.io/js/cartesian-mutable) [![Build Status](https://travis-ci.org/shkuznetsov/cartesian-mutable.svg?branch=master)](https://travis-ci.org/shkuznetsov/cartesian-mutable)
 Cartesian product with a twist: each set can mutate depending on the values picked from the previous sets.
 
 ## Basic usage
