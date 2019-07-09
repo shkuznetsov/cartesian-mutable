@@ -1,6 +1,6 @@
 {
   "name": "cartesian-mutable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Cartesian product with a twist: each set can mutate depending on the values picked from the previous sets",
   "main": "cartesian-mutable.js",
   "scripts": {
