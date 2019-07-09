@@ -4,7 +4,7 @@
   "description": "Cartesian product with a twist: each set can mutate depending on the values picked from the previous sets",
   "main": "cartesian-mutable.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/shkuznetsov/cartesian-mutable/issues"
   },
-  "homepage": "https://github.com/shkuznetsov/cartesian-mutable#readme"
+  "homepage": "https://github.com/shkuznetsov/cartesian-mutable#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
